@@ -1,4 +1,1 @@
-*
-!.gitignore
-!Go - Theory.md
-!Rust - Theory.md
+.DS_Store
